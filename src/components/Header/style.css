@@ -1,0 +1,28 @@
+.header {
+  padding: 12rem 7rem;
+  float: left;
+  height: calc(100vh - 15em);
+  width: 100%;
+  background: #66b444;
+}
+
+.header-wrapper {
+  font-size: 3rem;
+  font-family: "Mobile Font", sans-serif;
+  color: #fff;
+  text-shadow: 15px 15px #000;
+  letter-spacing: 6px;
+  line-height: 6rem;
+}
+
+.header-title {
+  text-align: center;
+}
+
+.header-content {
+  text-align: center;
+}
+
+.header-content img {
+  width: 356px;
+}

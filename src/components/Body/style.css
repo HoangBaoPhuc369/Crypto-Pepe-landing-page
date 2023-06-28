@@ -1,0 +1,29 @@
+.main {
+  float: left;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 5px 0 #66b444;
+  background: #66b444;
+}
+
+.content {
+  float: left;
+  width: 70%;
+  margin: 0 15%;
+  padding: 2em 0;
+  color: #fff !important;
+}
+
+.content h1 {
+  font-size: 5em;
+}
+
+.content p {
+  font-size: 2em;
+  line-height: 1.6em;
+}
+
+.content h2 {
+  font-size: 4em;
+  margin-top: 2em;
+}

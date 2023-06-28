@@ -1,0 +1,20 @@
+.nav-wrapper {
+  position: relative;
+  overflow: hidden;
+  height: 205px;
+  width: 100%;
+  background: #66b444;
+  z-index: 1;
+  padding: 0.5rem 2rem;
+}
+
+.nav-left {
+  width: 193px;
+}
+
+.nav-right {
+  float: right;
+  color: #fff;
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
