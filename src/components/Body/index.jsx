@@ -36,11 +36,10 @@ const Body = () => {
           $PEPE3.0 - The one and only coin ruling the Memes community! 🌟
           #PEPE3.0 Launch creates a new era of development of the #MEME space
           Protecting decentralization and fairness Preventing blacklisted🚀 Get
-          ready to unleash its true potential, fellow members! We're cooking up
-          some mind-blowing use cases that will blow your socks off! 🧦✨ So
-          hold tight, stay tuned, and let's make $PEPE3.0 the ultimate power
-          move within our club! Together, we'll create a crypto revolution like
-          no other!
+          ready to its true potential, fellow members! We're cooking up some
+          mind-blowing use cases that will blow your socks off! 🧦✨ So hold
+          tight, stay tuned, and let's make $PEPE3.0 the ultimate power move
+          within our! Together, we'll create a crypto revolution like no other!
         </p>
         <h2>Tokenomics</h2>
         <p>Token Name: PEPE 3.0</p>
