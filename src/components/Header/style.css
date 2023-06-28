@@ -1,7 +1,7 @@
 .header {
-  padding: 12rem 7rem;
+  padding: 8rem 7rem;
   float: left;
-  height: calc(100vh - 15em);
+  min-height: calc(100vh - 15em);
   width: 100%;
   background: #66b444;
 }
@@ -20,7 +20,9 @@
 }
 
 .header-content {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .header-content img {
